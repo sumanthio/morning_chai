@@ -2,7 +2,7 @@
 
 Daily brief and news on the web and related ecosystem.
 
-# Front End
+## 7th Feb, 2020
 
 - (Learn JavaScript fundamentals through fun and challenging quizzes!(best for interviews))[https://quiz.typeofnan.dev/]
 - (Visual Studio Code January 2020)[https://code.visualstudio.com/updates/v1_42]
