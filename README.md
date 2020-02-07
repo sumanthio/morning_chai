@@ -9,3 +9,4 @@ Daily brief and news on the web and related ecosystem.
 - [What's new in ECMAScript 2020 (ES2020)](https://alligator.io/js/es2020/)
 - [Angular 9 Released](https://blog.angular.io/version-9-of-angular-now-available-project-ivy-has-arrived-23c97b63cfa3)
 - [Node.js release fixes a critical HTTP security vulnerability](https://snyk.io/blog/node-js-release-fixes-a-critical-http-security-vulnerability/)
+- [Free full stack course](https://fullstackopen.com/)
