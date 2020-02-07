@@ -1,6 +1,6 @@
 # Morning Chai ☕️
 
-Daily brief and news on the web and related ecosystem.
+Daily briefing on the web and related ecosystem.
 
 ## 7th Feb, 2020
 
