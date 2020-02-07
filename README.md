@@ -1,4 +1,4 @@
-# morning_chai
+# Morning Chai ☕️
 
 Daily brief and news on the web and related ecosystem.
 
