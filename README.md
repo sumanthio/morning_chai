@@ -2,7 +2,17 @@
 
 Daily briefing on the web and related ecosystem.
 
-## 7th Feb, 2020
+## 10th Feb, 2020
+
+- [Aborting a fetch request](https://meetguns.com/blog/aborting-a-fetch-request/)
+- [React hook of Google Maps Places Autocomplete](https://github.com/wellyshen/use-places-autocomplete)
+- [A Data Driven approach to forms with React](https://medium.com/javascript-in-plain-english/data-driven-approach-to-forms-with-react-c69fd4ea7923)
+- [Real time chat application based on Express, React, Socket.io](https://www.htmlhints.com/article/66/real-time-chat-application-based-on-express-react-socketio)
+- [Visualizing memory management in V8 Engine (JavaScript, NodeJS, Deno, WebAssembly)](https://deepu.tech/memory-management-in-v8/)
+- [Comprehensively Understand the “this” keyword in JavaScript](https://learntocodetogether.com/comprehensively-understand-the-this-keyword-in-javascript/#.XkBAgnMAKJM.reddit)
+- [ES2020 spec](https://tc39.es/ecma262/)
+
+## 8th Feb, 2020
 
 - [CoronaWatch: 2019-nCoV](https://coronawatch.now.sh/)
 - [React libraries being empowered by hooks](https://www.herodev.io/blog/react-libraries-switching-to-hooks/)
