@@ -2,6 +2,15 @@
 
 Daily briefing on the web and related ecosystem.
 
+## 11th Feb, 2020
+
+- [Visual debugging in VSCode. Stack visualization on point](https://preview.redd.it/q5674i6z54g41.gif?format=mp4&s=e1eb445f4995f380949f1332e23242098bed2315)
+- [WebSockets vs Server-Sent Events](https://www.ably.io/blog/websockets-vs-sse/)
+- [AirBnB Clone with React Native Part 13: Firebase Push Notifications for iOS and Android](https://heartbeat.fritz.ai/airbnb-clone-with-react-native-part-13-firebase-push-notifications-for-ios-and-android-7b0d4a29fc49?gi=e10801edc9e7)
+- [Flutter Firebase Auth Setup & Registration](https://www.youtube.com/watch?v=MWUVDxgIh9M&feature=youtu.be)
+- [How I built Heimdall, an open-source personal email guardian (Typescript, Serverless, AWS)](https://medium.com/@fabianterh/how-i-built-heimdall-an-open-source-personal-email-guardian-68e306d172d1)
+- [Axios Decorators](https://github.com/FriendsOfReact/axios-decorators)
+
 ## 10th Feb, 2020
 
 - [Aborting a fetch request](https://meetguns.com/blog/aborting-a-fetch-request/)
