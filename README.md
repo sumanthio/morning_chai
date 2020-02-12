@@ -2,6 +2,16 @@
 
 Daily briefing on the web and related ecosystem.
 
+## 12th Feb, 2020
+
+- [React Lesson 8: Deep Dive into React Redux](https://blog.soshace.com/react-lesson-8/)
+- [How to setup a staging environment when using webpack](https://www.petroskyriakou.com/how-to-setup-a-staging-environment-when-using-webpack)
+- [Building Great User Experience with React Suspense](https://buttercms.com/blog/building-great-user-experiences-with-concurrent-mode-and-suspense)
+- [How design systems use Storybook](https://medium.com/storybookjs/how-design-systems-use-storybook-2ed735ad07a9)
+- [React Hooks Tutorial | Build Yelp in React](https://www.youtube.com/watch?v=8asNYp7koRg&list=PL1Nml43UBm6fmZZDeu-FDt5pozS2rSuff)
+- [Free Online Full Stack Web Development Bootcamps 2020](https://techjasmine.com/free-online-full-stack-web-development-bootcamps-2020/)
+- [Understanding Modern Cloud Architecture on AWS: Docker and Containers](https://start.jcolemorrison.com/understanding-modern-cloud-architecture-on-aws-docker-and-containers/)
+
 ## 11th Feb, 2020
 
 - [Visual debugging in VSCode. Stack visualization on point](https://preview.redd.it/q5674i6z54g41.gif?format=mp4&s=e1eb445f4995f380949f1332e23242098bed2315)
