@@ -2,6 +2,16 @@
 
 Daily briefing on the web and related ecosystem.
 
+## 13th Feb, 2020
+
+- [A starter project for building performant ECommerce applications with Gatsby and React](https://github.com/jamstack-cms/jamstack-ecommerce)
+- [Visual editor for Chakra UI](https://openchakra.app/)
+- [Build a Simple Node.js OAuth Server with JWT](https://www.grizzlypeaksoftware.com/articles?id=6G3prVhXnUeSYUEqEoCqq2)
+- [Angular Weekly - Weekly resources for Angular pros. Carefully curated by Andrey from Jexia.](https://www.angularweekly.dev/post/90-release-of-angular-9)
+- [Devion - One Command to Run All your Projects in Development](https://github.com/alchaplinsky/devion)
+- [JavaScript Throttle and Debounce | Concept and Comparision](https://kriss.io/javascript-throttle-and-debounce-concept-and-comparision/)
+- [React native vs Flutter 2020 comparison](https://kriss.io/react-native-vs-flutter-202-comparison/)
+
 ## 12th Feb, 2020
 
 - [React Lesson 8: Deep Dive into React Redux](https://blog.soshace.com/react-lesson-8/)
