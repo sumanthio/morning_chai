@@ -2,6 +2,14 @@
 
 Daily briefing on the web and related ecosystem.
 
+## 14th Feb, 2020
+
+- [11 Useful Online Tools for Frontend Developers](https://blog.bitsrc.io/12-useful-online-tools-for-frontend-developers-bf98f3bf7c63)
+- [7 really good reasons not to use TypeScript](https://medium.com/javascript-in-plain-english/7-really-good-reasons-not-to-use-typescript-166af597c466)
+- [A Practical Introduction to TypeScript Class Decorators](https://medium.com/better-programming/a-practical-introduction-to-typescript-class-decorators-afb996af0763)
+- [Upgrade to Angular 9 — Within 10 Minutes](https://levelup.gitconnected.com/upgrade-to-angular-9-within-10-minutes-671c6fd6174b)
+- [Node.js multithreading: What are Worker threads, and why do they matter?](https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10/)
+
 ## 13th Feb, 2020
 
 - [A starter project for building performant ECommerce applications with Gatsby and React](https://github.com/jamstack-cms/jamstack-ecommerce)
