@@ -2,6 +2,16 @@
 
 Daily briefing on the web and related ecosystem.
 
+## 17th Feb, 2020
+
+- [React Router v6 will be 2.9kb - 70% smaller because of Hooks and other factors](https://twitter.com/mjackson/status/1229156979714605056)
+- [Math keeps changing](https://macwright.org/2020/02/14/math-keeps-changing.html)
+- [Create Simple POS With React, Node and MongoDB #4: Optimize App and Setup Deployment Workflow](https://blog.soshace.com/create-simple-pos-with-react-node-and-mongodb-4-optimize-app-and-setup-deployment-workflow/)
+- [Modern API Design with Apollo, GraphQL-Compose and Mongoose](https://medium.com/@istvanistvan/modern-api-design-with-apollo-graphql-compose-and-mongoose-f67c0df060ea)
+- [Electron joins the OpenJS Foundation](https://openjsf.org/blog/2019/12/11/electron-joins-the-openjs-foundation/)
+- [Intro | Flutter GAME Tutorial | Tic tac toe](https://www.youtube.com/watch?v=BZaXEIn9jE4&list=PLlvRDpXh1Se6e3FSn5O7VU6tzlndSi3FD&index=2)
+- [React Native app Real-time departure data of BART trains.](https://github.com/yonureker/BartLiveMobile)
+
 ## 14th Feb, 2020
 
 - [11 Useful Online Tools for Frontend Developers](https://blog.bitsrc.io/12-useful-online-tools-for-frontend-developers-bf98f3bf7c63)
