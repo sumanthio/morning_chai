@@ -2,6 +2,15 @@
 
 Daily briefing on the web and related ecosystem.
 
+## 18th Feb, 2020
+
+- [The first release of the official Redux template for Create-React-App](https://github.com/reduxjs/cra-template-redux/releases/tag/v1.0.0)
+- [List of Typical Performance Killers of NodeJS Web Applications](https://itnext.io/my-list-of-typical-performance-killers-of-nodejs-web-applications-60349b898234)
+- [The State of Vue.js in 2020 - Why You Should Make The Leap - Gwendolyn Faraday](https://www.youtube.com/watch?v=eiUgVa2Td_k)
+- [Lazy Loading Components in Angular v9](https://netbasal.com/welcome-to-the-ivy-league-lazy-loading-components-in-angular-v9-e76f0ee2854a?gi=9556c05a6530)
+- [Unlocking reactivity with Svelte and RxJS](https://timdeschryver.dev/blog/unlocking-reactivity-with-svelte-and-rxjs)
+- [Build a full-featured Tinder-like Carousel in vanilla JavaScript](https://www.hackdoor.io/articles/8MNPqDpV/build-a-full-featured-tinder-like-carousel-in-vanilla-javascript)
+
 ## 17th Feb, 2020
 
 - [React Router v6 will be 2.9kb - 70% smaller because of Hooks and other factors](https://twitter.com/mjackson/status/1229156979714605056)
