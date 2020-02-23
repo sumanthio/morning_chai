@@ -2,6 +2,14 @@
 
 Daily briefing on the web and related ecosystem.
 
+# 23 Feb, 2020
+
+- [Productive Tools🚀 For Web Development😎](https://dev.to/akshay35c/productive-tools-for-web-development-4bd5)
+- [How to Lazy Load Images](https://dev.to/shandilyaprasanna/how-to-lazy-load-images-414a)
+- [NodeJS Security Deep Dive](https://www.andreigaspar.com/nodejs-security-deep-dive/)
+- [Angular Authentication: JSON Web Token](https://malcoded.com/posts/angular-json-web-token/)
+- [Travel Budget Login Design Challenge - Part 3 - Flutter Explained](https://www.youtube.com/watch?v=-v_iyHVEOSE)
+
 ## 22 Feb, 2020
 
 - [Streams for reactive programming](https://dassur.ma/things/streams-for-reactive-programming/)
