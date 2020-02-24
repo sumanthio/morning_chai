@@ -2,6 +2,14 @@
 
 Daily briefing on the web and related ecosystem.
 
+# 24 Feb, 2020
+
+- [How to learn Flutter in 2020](https://www.freecodecamp.org/news/how-to-learn-flutter-in-2020/)
+- [Gateman.js: Auth for Node](https://github.com/NwangwuOsitadinma/gateman)
+- [Ultimate Guide to Tips, Tricks, and JavaScript Features You Should Know!](https://levelup.gitconnected.com/ultimate-guide-to-tips-tricks-and-javascript-features-you-should-know-27e0a4a6ffdf)
+- [JavaScript Barcode Scanner with Tesseract.js OCR](https://levelup.gitconnected.com/how-to-empower-javascript-barcode-scan-with-tesseract-js-ocr-173b2c2fc54a)
+- [Object Oriented Programming in JavaScript – Explained with Examples](https://www.freecodecamp.org/news/how-javascript-implements-oop/)
+
 # 23 Feb, 2020
 
 - [Productive Tools🚀 For Web Development😎](https://dev.to/akshay35c/productive-tools-for-web-development-4bd5)
