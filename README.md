@@ -2,6 +2,14 @@
 
 Daily briefing on the web and related ecosystem.
 
+# 25 Feb, 2020
+
+- [Asynchronous programming in JavaScript](https://exploringjs.com/impatient-js/ch_async-js.html)
+- [Top JavaScript Frameworks and libraries to Learn in 2020](https://www.htmlhints.com/article/72/top-javascript-frameworks-to-learn-in-2020)
+- [Making Web Components for Different Contexts](https://hackdoor.io/articles/5kQdnVND/making-web-components-for-different-contexts)
+- [Angular 8 - Role-based authorization tutorial](https://fsou1.github.io/2020/02/24/Angular_8_role_based_authorization/)
+- [Blog MongoDB announced GraphQL integration](https://blog.graphqleditor.com/mongodb-stitch-graphql-integration/)
+
 # 24 Feb, 2020
 
 - [How to learn Flutter in 2020](https://www.freecodecamp.org/news/how-to-learn-flutter-in-2020/)
