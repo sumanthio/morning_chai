@@ -2,6 +2,13 @@
 
 Daily briefing on the web and related ecosystem.
 
+# 26 Feb, 2020
+
+- [How I used React-Loadable to more than half my React app's load time](https://dev.to/rozenmd/how-i-used-react-loadable-to-more-than-half-my-react-app-s-load-time-299c)
+- [MS Paint in JS 😍](https://jspaint.app/#local:2ff265c692707)
+- [PrimeNG 9.0.0 Released for Angular 9](https://www.primefaces.org/primeng-9-0-0-released/)
+- [Test-Driven Development In Flutter](https://itnext.io/test-driven-development-in-flutter-e7fe7921ea92)
+
 # 25 Feb, 2020
 
 - [Asynchronous programming in JavaScript](https://exploringjs.com/impatient-js/ch_async-js.html)
