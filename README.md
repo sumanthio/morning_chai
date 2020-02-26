@@ -8,6 +8,7 @@ Daily briefing on the web and related ecosystem.
 - [MS Paint in JS 😍](https://jspaint.app/#local:2ff265c692707)
 - [PrimeNG 9.0.0 Released for Angular 9](https://www.primefaces.org/primeng-9-0-0-released/)
 - [Test-Driven Development In Flutter](https://itnext.io/test-driven-development-in-flutter-e7fe7921ea92)
+- [Insanely fast mobile sites with Svelte, GraphQL and Drupal | Florida DrupalCamp 2020](https://www.youtube.com/watch?v=78YtoHGU_Sg&feature=youtu.be)
 
 # 25 Feb, 2020
 
