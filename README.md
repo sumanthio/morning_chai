@@ -2,6 +2,13 @@
 
 Daily briefing on the web and related ecosystem.
 
+# 27 Feb, 2020
+
+- [Dates in MongoDB](https://www.reddit.com/r/node/comments/f9zoak/dates_in_mongodb/)
+- [Hooks for fetching, caching and updating asynchronous data in React](https://github.com/tannerlinsley/react-query)
+- [How I Created a Particle Clock and Won the #FlutterClock Challenge](https://ultimatemachine.se/articles/how-i-created-a-particle-clock-and-won-the-flutterclock-challenge/)
+- []()
+
 # 26 Feb, 2020
 
 - [How I used React-Loadable to more than half my React app's load time](https://dev.to/rozenmd/how-i-used-react-loadable-to-more-than-half-my-react-app-s-load-time-299c)
