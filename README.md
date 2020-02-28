@@ -2,6 +2,14 @@
 
 Daily briefing on the web and related ecosystem.
 
+# 28 Feb, 2020
+
+- [A free and open source code snippets manager for developers. ](https://github.com/antonreshetov/massCode)
+- [Five Misconceptions on How NodeJS Works](https://blog.insiderattack.net/five-misconceptions-on-how-nodejs-works-edfb56f7b3a6)
+- [Building a Reusable Pagination Component in VueJS](https://www.youtube.com/watch?v=M033S_-uHkQ)
+- [MEAN Stack Angular 9 Build Realtime CRUD Web App Quickly](https://www.youtube.com/watch?v=aoFwrj3N2Fk)
+- [Top 50+ React Native Interview Questions and Answers 2020](https://www.positronx.io/top-react-native-interview-questions-and-answers/)
+
 # 27 Feb, 2020
 
 - [Dates in MongoDB](https://www.reddit.com/r/node/comments/f9zoak/dates_in_mongodb/)
