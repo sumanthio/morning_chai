@@ -2,6 +2,15 @@
 
 Daily briefing on the web and related ecosystem.
 
+# 3 March, 2020
+
+- [The JavaScript Beginner's Handbook (2020 Edition)](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
+- [An Introduction to Webpack Configs](https://masteringjs.io/tutorials/webpack/config)
+- [Extensive Vuejs Full-Stack Course (AWS / Firebase) Build E-Commerce Website - 77 Videos](https://www.youtube.com/watch?v=UrUuvNyK-Os&list=PLB4AdipoHpxYPjGo0n2m6tmCLud_iSEbv)
+- [Tired of writing environment variables? Let Node do it for you!](https://medium.com/@vvvsejvvv/tired-of-writing-environment-variables-let-node-do-it-for-you-45f14604e1f7)
+- [Fully printable summary of modern TypeScript language features with extensive examples to help you learn](https://github.com/David-Else/modern-typescript-with-examples-cheat-sheet)
+- [Webpack 5: Module Federation. A Game-changer to Javascript architecture.](https://medium.com/@ScriptedAlchemy/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669)
+
 # 28 Feb, 2020
 
 - [A free and open source code snippets manager for developers. ](https://github.com/antonreshetov/massCode)
