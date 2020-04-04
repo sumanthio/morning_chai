@@ -2,6 +2,23 @@
 
 Daily briefing on the web and related ecosystem.
 
+# 5th April, 2020
+
+- [Routify - a file-based router for Svelte](https://routify.dev/)
+- [How to test custom React hooks- kentcdodds](https://kentcdodds.com/blog/how-to-test-custom-react-hooks)
+- [Latest Redux Course Lesson #2: Working with dispatch, subscribe, and getState](https://www.youtube.com/watch?v=bxmFttvj-Mk)
+- [UI driven GraphQL schema design](https://medium.com/@veeralpatel/ui-driven-graphql-design-10671645f392)
+- [A generator for section separators with only css](https://wweb.dev/resources/css-separator-generator)
+- [All Pluralsight courses free in April](https://www.pluralsight.com/)
+- [ES2020 features code samples](https://h3manth.com/es2020)
+
+# 5 March, 2020
+
+- [GitHub Student Developer Pack](https://education.github.com/pack)
+- [Node v13.10.0](https://nodejs.org/en/blog/release/v13.10.0/)
+- [Essential Docker for Javascript and Front End Developers](https://nosleepjavascript.com/docker-essentials-for-front-end-developers/)
+- [React hooks to speed-up your components and hooks development.](https://beautifulinteractions.github.io/beautiful-react-hooks/)
+
 # 3 March, 2020
 
 - [The JavaScript Beginner's Handbook (2020 Edition)](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
