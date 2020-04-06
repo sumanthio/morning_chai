@@ -2,7 +2,7 @@
 
 Daily briefing on the web and related ecosystem.
 
-# 5th April, 2020
+# 6th April, 2020
 
 - [Why localStorage only allows to store string values](https://www.pixelstech.net/article/1586062871-Why-localStorage-only-allows-to-store-string-values)
 - [Random Fractals generator](https://victorribeiro.com/randomFractal/)
