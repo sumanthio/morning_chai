@@ -4,6 +4,14 @@ Daily briefing on the web and related ecosystem.
 
 # 5th April, 2020
 
+- [Why localStorage only allows to store string values](https://www.pixelstech.net/article/1586062871-Why-localStorage-only-allows-to-store-string-values)
+- [Random Fractals generator](https://victorribeiro.com/randomFractal/)
+- [Pointer Compression in V8](https://v8.dev/blog/pointer-compression)
+- [A Simple Javascript library that use image data to create a small interactive particles network](https://github.com/OssamaRafique/Interactive-Image-Particles)
+- [Binary Heaps and Priority Queues via JavaScript](https://alligator.io/js/binary-heaps/)
+
+# 5th April, 2020
+
 - [Routify - a file-based router for Svelte](https://routify.dev/)
 - [How to test custom React hooks- kentcdodds](https://kentcdodds.com/blog/how-to-test-custom-react-hooks)
 - [Latest Redux Course Lesson #2: Working with dispatch, subscribe, and getState](https://www.youtube.com/watch?v=bxmFttvj-Mk)
