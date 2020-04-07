@@ -2,6 +2,14 @@
 
 Daily briefing on the web and related ecosystem.
 
+# 7th April, 2020
+
+- [How we made common frontend mistakes impossible by porting to TypeScript](https://www.executeprogram.com/blog/porting-a-react-frontend-to-typescript)
+- [Ten Considerations Before You Create Another Chart About COVID-19](https://medium.com/nightingale/ten-considerations-before-you-create-another-chart-about-covid-19-27d3bd691be8)
+- [Grokking the Uber System Design Interview](https://www.youtube.com/watch?v=AAMLzNaDkjk)
+- [In-Demand Skills to Get a Remote Developer Job (March 2020)](https://cvcompiler.com/blog/in-demand-skills-to-get-a-remote-developer-job-march-2020/)
+- [Microsoft Edge is now 2nd most popular desktop browser, beats Firefox](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-is-now-2nd-most-popular-desktop-browser-beats-firefox/)
+
 # 6th April, 2020
 
 - [Why localStorage only allows to store string values](https://www.pixelstech.net/article/1586062871-Why-localStorage-only-allows-to-store-string-values)
