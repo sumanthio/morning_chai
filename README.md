@@ -2,6 +2,15 @@
 
 Daily briefing on the web and related ecosystem.
 
+# 8th April, 2020
+
+- [Converting a Redux app to Recollect (how and why)](https://medium.com/@david.gilbertson/converting-a-redux-app-to-recollect-how-and-why-345a35088ea9)
+- [Build a Pokemon App | React & GraphQL Tutorial For Beginners](https://www.youtube.com/watch?v=yKFoAF7J0mc)
+- [Bootstrap v5 dropping IE support](https://github.com/twbs/bootstrap/pull/30377)
+- [Implementing complex UI with Flutter - Marcin Szałek | Flutter Europe](https://www.youtube.com/watch?v=FCyoHclCqc8)
+- [5 Mistakes Web Developers Should Avoid When using JWTs for Authentication](https://ducktypelabs.com/5-mistakes-web-developers-should-avoid-when-using-jwts-for-authentication/)
+- [How to Improve Page Speed from Start to Finish (Advanced Guide)](https://ahrefs.com/blog/advanced-pagespeed-guide/)
+
 # 7th April, 2020
 
 - [How we made common frontend mistakes impossible by porting to TypeScript](https://www.executeprogram.com/blog/porting-a-react-frontend-to-typescript)
