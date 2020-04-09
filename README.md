@@ -2,6 +2,14 @@
 
 Daily briefing on the web and related ecosystem.
 
+# 9th April, 2020
+
+- [Weather app : Learn Firebase and Svelte (Live youtube video)](https://www.youtube.com/watch?v=zO_7TNrRO9c)
+- [Flutter Networking Tutorial: Getting Started](https://www.raywenderlich.com/5896601-flutter-networking-tutorial-getting-started)
+- [Attend the biggest ReactJS conference in the cloud](https://sfree.life/reactjs-react-summit-conf-2020-stream-free/)
+- [TypeScript Tutorial For Beginners](https://afteracademy.com/blog/typescript-tutorial-for-beginners)
+- [React Folder Structure in 5 Steps](https://www.robinwieruch.de/react-folder-structure)
+
 # 8th April, 2020
 
 - [Converting a Redux app to Recollect (how and why)](https://medium.com/@david.gilbertson/converting-a-redux-app-to-recollect-how-and-why-345a35088ea9)
