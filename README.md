@@ -2,6 +2,14 @@
 
 Daily briefing on the web and related ecosystem.
 
+# 10th April, 2020
+
+- [Vime:an open-sourced library built with Svelte, focused on making embedding and using media elements for the web simple](https://github.com/vime-js/vime)
+- [Vue I18n: Building a Multi-Lingual App](https://lokalise.com/blog/vue-i18n/)
+- [Introducing Schema Change Notifications with Apollo Graph Manager](https://blog.apollographql.com/introducing-schema-change-notifications-with-apollo-graph-manager-b0f2ef13ce9d)
+- [Windows 10 is getting Linux files integration in File Explorer](https://www.theverge.com/2020/4/8/21213783/microsoft-windows-10-linux-file-explorer-integration-features)
+- [React Native Firebase Analytics](https://www.youtube.com/watch?v=gH6oKPtJYJ4)
+
 # 9th April, 2020
 
 - [Weather app : Learn Firebase and Svelte (Live youtube video)](https://www.youtube.com/watch?v=zO_7TNrRO9c)
