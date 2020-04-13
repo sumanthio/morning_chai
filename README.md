@@ -2,6 +2,14 @@
 
 Daily briefing on the web and related ecosystem.
 
+# 13th April, 2020
+
+- [Dart programming language - Beginner to Intermediate Full Tutorial](https://www.youtube.com/watch?v=afXXvBOWq14)
+- [TodoMVC built with Svelte and Store](https://github.com/blacksonic/todomvc-svelte)
+- [Changes coming to Netlify site URLs .com to .app](https://community.netlify.com/t/changes-coming-to-netlify-site-urls/8918)
+- [Sharding Pinterest: How we scaled our MySQL fleet](https://medium.com/pinterest-engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f)
+- [Learn Programming for free with JetBrains](https://www.jetbrains.com/academy/)
+
 # 10th April, 2020
 
 - [Vime:an open-sourced library built with Svelte, focused on making embedding and using media elements for the web simple](https://github.com/vime-js/vime)
