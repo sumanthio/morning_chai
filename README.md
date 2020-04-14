@@ -2,6 +2,14 @@
 
 Daily briefing on the web and related ecosystem.
 
+# 14th April, 2020
+
+- [Designing GraphQL schemas](https://dgraph.io/blog/post/designing-graphql-schemas/)
+- [Vue Mastery goes free for one week](https://www.vuemastery.com/free-week/)
+- [How to Architect a Node.Js Project from Ground Up?](https://blog.soshace.com/how-to-architect-a-node-js-project-from-ground-up/)
+- [Step-by-step guide to modern & secure CI setup](https://devforth.io/blog/step-by-step-guide-to-modern-secure-ci-setup)
+- [Firestore CRUD with Flutter](https://www.youtube.com/watch?v=YZt92I2V704)
+
 # 13th April, 2020
 
 - [Dart programming language - Beginner to Intermediate Full Tutorial](https://www.youtube.com/watch?v=afXXvBOWq14)
