@@ -2,6 +2,14 @@
 
 Daily briefing on the web and related ecosystem.
 
+# 15th April, 2020
+
+- [GitHub is now free for teams](https://github.blog/2020-04-14-github-is-now-free-for-teams/)
+- [Writing an Emulator in JavaScript (and Interfacing with Multiple UIs)](https://www.taniarascia.com/writing-an-emulator-in-javascript-chip8/)
+- [Login + Registration layout / Authentication Flows - React Navigation v5 for React Native with Hooks](https://www.youtube.com/watch?v=rHJTv3KlZW8)
+- [PWA Benifits](https://kodytechnolab.com/progressive-web-app-benefits)
+- [Better React Native Debugging with Reactotron in Flipper](https://shift.infinite.red/better-react-native-debugging-with-reactotron-in-flipper-6b823af29220)
+
 # 14th April, 2020
 
 - [Designing GraphQL schemas](https://dgraph.io/blog/post/designing-graphql-schemas/)
