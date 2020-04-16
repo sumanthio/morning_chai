@@ -2,6 +2,14 @@
 
 Daily briefing on the web and related ecosystem.
 
+# 16th April, 2020
+
+- [Simple Kafka Consumer example | Spring Boot | Spring Kafka](https://www.youtube.com/watch?v=80ngRl7RhCw)
+- [React Router v6 Preview](https://reacttraining.com/blog/react-router-v6-pre/)
+- [Understanding React Context to Beginners or Lazy people 🥱](https://dev.to/pobandob/understanding-react-context-to-beginners-or-lazy-people-29jk)
+- [Node.js Best Practices — Validation and Code Style](https://levelup.gitconnected.com/node-js-best-practices-validation-and-code-style-283e295730a)
+- [Building COVID-19 Dashboard with Chart.js and Vue.js](https://levelup.gitconnected.com/building-covid-19-dashboard-with-charts-js-and-vue-js-5b054443fa4)
+
 # 15th April, 2020
 
 - [GitHub is now free for teams](https://github.blog/2020-04-14-github-is-now-free-for-teams/)
