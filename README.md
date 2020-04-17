@@ -2,6 +2,14 @@
 
 Daily briefing on the web and related ecosystem.
 
+# 17th April, 2020
+
+- [The Ultimate Guide to Drag and Drop Image Uploading with Pure JavaScript](https://blog.soshace.com/the-ultimate-guide-to-drag-and-drop-image-uploading-with-pure-javascript/)
+- [Build a ReactNative online shop using Apollo](https://www.youtube.com/watch?v=RWkMJBa9Xh4)
+- [Build an entire startup in Node.js - hooks and authentication](https://www.youtube.com/watch?v=wOSPDtvJcyQ)
+- [The biggest React Conference in the cloud](https://remote.reactsummit.com/)
+- [Web Components, Shadow DOM, Shadow CSS ;tldr](https://dev.to/activenode/web-components-shadow-dom-shadow-css-tldr-4cgh)
+
 # 16th April, 2020
 
 - [Simple Kafka Consumer example | Spring Boot | Spring Kafka](https://www.youtube.com/watch?v=80ngRl7RhCw)
