@@ -2,6 +2,14 @@
 
 Daily briefing on the web and related ecosystem.
 
+# 20th April, 2020
+
+- [500 Free Computer Science Courses from the World’s Top CS Universities](https://www.freecodecamp.org/news/free-courses-top-cs-universities/)
+- [Ultimate List of JavaScript Interview Questions](https://blog.soshace.com/ultimate-list-of-javascript-interview-questions/)
+- [Create a Flutter Portfolio with Parallax Effect | Flutter Web](https://www.youtube.com/watch?v=IuPqIwY3bEo)
+- [Best practices for creating React Native apps — Part 2](https://medium.com/building-with-react-native/best-practices-for-creating-react-native-apps-part-2-d0ba55a0d7f5)
+- [CSS Findings From The New Facebook Design](https://ishadeed.com/article/new-facebook-css/)
+
 # 17th April, 2020
 
 - [The Ultimate Guide to Drag and Drop Image Uploading with Pure JavaScript](https://blog.soshace.com/the-ultimate-guide-to-drag-and-drop-image-uploading-with-pure-javascript/)
