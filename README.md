@@ -2,6 +2,14 @@
 
 Daily briefing on the web and related ecosystem.
 
+# 18th May, 2020
+
+- [☕️ Svelte tutorial - crash course from scratch](https://www.youtube.com/watch?v=JIc8O6KcIUM)
+- [☕️ How to Make your React App a Progressive Web App (PWA)](https://felixgerschau.com/how-to-make-your-react-app-a-progressive-web-app-pwa)
+- [☕️ Learn FeathersJS by Building a Simple CRM App](https://techformist.com/learn-feathersjs-build-app/)
+- [☕️ Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
+- [☕️ A Short On How Zoom Works](http://highscalability.com/blog/2020/5/14/a-short-on-how-zoom-works.html)
+
 # 20th April, 2020
 
 - [500 Free Computer Science Courses from the World’s Top CS Universities](https://www.freecodecamp.org/news/free-courses-top-cs-universities/)
