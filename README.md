@@ -2,6 +2,14 @@
 
 Daily briefing on the web and related ecosystem.
 
+# 19th May, 2020
+
+- [:ts: Snowpack with Svelte, Typescript and Tailwind](https://codechips.me/snowpack-svelte-typescript-tailwindcss/)
+- [🍪 Authentication on the Client Side the Right Way: Cookies vs. Local Storage](https://www.taniarascia.com/full-stack-cookies-localstorage-react-express/)
+- [:js: A Visual Guide To React Mental Models](https://obedparla.com/code/a-visual-guide-to-react-mental-models/)
+- [😍 Learning Resources](https://webdevscom.github.io/)
+- [:world_map: Google Maps & Google Places in React](https://www.youtube.com/watch?v=WZcxJGmLbSo)
+
 # 18th May, 2020
 
 - [☕️ Svelte tutorial - crash course from scratch](https://www.youtube.com/watch?v=JIc8O6KcIUM)
