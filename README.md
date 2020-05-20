@@ -2,6 +2,14 @@
 
 Daily briefing on the web and related ecosystem.
 
+# 20 May, 2020
+
+- [:zap: Why is immutability so important (or needed) in JavaScript?](https://stackoverflow.com/questions/34385243/why-is-immutability-so-important-or-needed-in-javascript/43318963#43318963)
+- [:zap: Deno Cheat Sheet](https://droces.github.io/Deno-Cheat-Sheet/)
+- [:zap: Learning Path: Getting started with React](https://juanmanuelalloron.com/2020/05/19/learning-path-getting-started-with-react/)
+- [:zap: Deno vs Node - just the differences](https://crunchskills.com/deno-vs-node/)
+- [:zap: Announcing React Native for macOS and more](https://microsoft.github.io/react-native-windows/blog/2020/05/19/rn4mupdadates)
+
 # 19th May, 2020
 
 - [:beers: Snowpack with Svelte, Typescript and Tailwind](https://codechips.me/snowpack-svelte-typescript-tailwindcss/)
