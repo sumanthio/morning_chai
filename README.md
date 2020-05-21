@@ -2,6 +2,14 @@
 
 Daily briefing on the web and related ecosystem.
 
+# 21 May, 2020
+
+- [:js: Blockchain Explained using JavaScript](https://codingnconcepts.com/javascript/blockchain-explained-using-javascript/)
+- [:zap: How to Sync Your React App with the System Color Scheme](https://blog.bitsrc.io/how-to-sync-your-react-app-with-the-system-color-scheme-78c0ad00074b)
+- [🚀 ES2020 Has Been Finalized. Here is What I’m Excited About](https://blog.bitsrc.io/es2020-has-been-finalized-here-is-what-im-excited-about-414959bc2f7f)
+- [:graphql: Intro to Prisma 2.0 (incl demo with existing database)](https://www.youtube.com/watch?v=AnJxKWQG_fM)
+- [:js: JavaScript Design Patterns: The Factory Pattern](https://medium.com/javascript-in-plain-english/javascript-design-patterns-the-factory-pattern-6b399656d710)
+
 # 20 May, 2020
 
 - [:zap: Why is immutability so important (or needed) in JavaScript?](https://stackoverflow.com/questions/34385243/why-is-immutability-so-important-or-needed-in-javascript/43318963#43318963)
