@@ -2,6 +2,14 @@
 
 Daily briefing on the web and related ecosystem.
 
+# 22 May, 2020
+
+- [↪ How to Better Use React Hooks?](http://chafaiayman.com/how-to-better-use-react-hooks/)
+- [🦕 overview of the Deno CLI](https://indepth.dev/a-quick-overview-of-the-deno-cli/)
+- [🕶 Vue Composition API for automatic fetch data when condition has been changed ](https://github.com/runkids/vue-condition-watcher)
+- [✏️ The State of Micro Frontends](https://blog.bitsrc.io/state-of-micro-frontends-9c0c604ed13a)
+- [📐 Implement Code Splitting in React](https://dev.to/damcosset/implement-code-splitting-in-react-1c0j)
+
 # 21 May, 2020
 
 - [🚀 Blockchain Explained using JavaScript](https://codingnconcepts.com/javascript/blockchain-explained-using-javascript/)
