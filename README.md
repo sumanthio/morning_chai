@@ -2,7 +2,7 @@
 
 Daily briefing on the web and related ecosystem.
 
-# 23 May, 2020
+# 25 May, 2020
 
 - [Best GitHub Repos for Web Developers](https://dev.to/sayanide/best-github-repos-for-web-developers-9id)
 - [Redux Toolkit -The official, opinionated, batteries-included toolset for efficient Redux development](https://redux-toolkit.js.org/introduction/quick-start)
