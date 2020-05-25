@@ -2,6 +2,14 @@
 
 Daily briefing on the web and related ecosystem.
 
+# 23 May, 2020
+
+- [Best GitHub Repos for Web Developers](https://dev.to/sayanide/best-github-repos-for-web-developers-9id)
+- [Redux Toolkit -The official, opinionated, batteries-included toolset for efficient Redux development](https://redux-toolkit.js.org/introduction/quick-start)
+- [VSCode Hacks - Based on an extension](https://vscode-hacks.herokuapp.com/)
+- [Deno Full Course in 3.5 hours](https://youtu.be/zU6-8w1IR-I)
+- [What's new In Angular 9.1](https://www.angularminds.com/blog/article/top-new-features-in-angular-9-1.html)
+
 # 22 May, 2020
 
 - [↪ How to Better Use React Hooks?](http://chafaiayman.com/how-to-better-use-react-hooks/)
