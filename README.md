@@ -2,6 +2,14 @@
 
 Daily briefing on the web and related ecosystem.
 
+# 26 May, 2020
+
+- [Case study: Analyzing Notion app performance](https://3perf.com/blog/notion/)
+- [Building with React for All Platforms: Top Frameworks and Tools](https://blog.bitsrc.io/building-with-react-for-all-platforms-5-top-frameworks-and-tools-affd5baf3de3)
+- [Authentication in Node.js with Express and sessions | refactoring codebase](https://www.youtube.com/watch?v=qzKRzwZzc6o)
+- [D3.js - A Practical Introduction](https://www.youtube.com/watch?v=TOJ9yjvlapY)
+- [Vue.js 3 + TypeScript • Full-Stack TypeScript with Kretes](https://www.youtube.com/watch?v=tmnHass2adM)
+
 # 25 May, 2020
 
 - [Best GitHub Repos for Web Developers](https://dev.to/sayanide/best-github-repos-for-web-developers-9id)
