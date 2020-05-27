@@ -1,6 +1,15 @@
 # Morning Chai ☕️
 
 Daily briefing on the web and related ecosystem.
+Blogposts, articles, videos, tutorials and talks. Credits go to the respective OP.
+
+# 27 May, 2020
+
+- [End to End Type Safety in clean Architecture](https://charlesagile.com/end-to-end-type-safety)
+- [Whatsapp web UI clone with React and React Hooks](https://www.youtube.com/watch?v=fKU1KHcAsuU)
+- [Amazon Web Services in one liners](https://adayinthelifeof.nl/2020/05/20/aws.html)
+- [NASA’s 10 rules for writing mission-critical code](https://altbulletin.com/how-to-code-like-the-top-programmers-at-nasa-10-critical-rules/)
+- [Nuxt JS - Distinct Layouts](https://www.youtube.com/watch?v=xh_OrVwgh4M)
 
 # 26 May, 2020
 
