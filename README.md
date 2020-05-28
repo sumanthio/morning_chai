@@ -3,6 +3,14 @@
 Daily briefing on the web and related ecosystem.
 Blogposts, articles, videos, tutorials and talks. Credits go to the respective OP.
 
+# 28 May, 2020
+
+- [Stackoverflow 2020 Dev survey](https://insights.stackoverflow.com/survey/2020)
+- [React Native's re-architecture in 2020](https://medium.com/@remi.gallego/react-natives-re-architecture-in-2020-9bb82659792c)
+- [Pete Hunt on Seven Years of Reconsidering Best Practices- React Podcast](https://reactpodcast.com/96)
+- [Dockerization of Node.JS Applications on Amazon Elastic Containers](https://blog.soshace.com/dockerization-of-node-js-applications-on-amazon-elastic-containers/)
+- [Unwritten Coding Standards: Vertical Whitespace](https://www.staycaffeinated.com/2020/05/27/coding-standards-whitespace)
+
 # 27 May, 2020
 
 - [End to End Type Safety in clean Architecture](https://charlesagile.com/end-to-end-type-safety)
