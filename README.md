@@ -3,6 +3,14 @@
 Daily briefing on the web and related ecosystem.
 Blogposts, articles, videos, tutorials and talks. Credits go to the respective OP.
 
+# 29 May, 2020
+
+- [React docs on MDN web](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
+- [OWASP security practice on Node.js](https://dzone.com/articles/10-nodejs-security-practices)
+- [Using Git to run ESLint on changed files in a feature branch](https://jdauriemma.com/programming/eslint-changed-files)
+- [Deno Mongo Tutorial | MongoDB for Deno](https://www.youtube.com/watch?v=RPHq_yFz51Q&feature=youtu.be)
+- [Changes to How We Manage DefinitelyTyped](https://devblogs.microsoft.com/typescript/changes-to-how-we-manage-definitelytyped/)
+
 # 28 May, 2020
 
 - [Stackoverflow 2020 Dev survey](https://insights.stackoverflow.com/survey/2020)
